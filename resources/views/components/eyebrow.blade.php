@@ -1,0 +1,1 @@
+<div class="eyebrow"><span></span>{{ $slot }}</div>

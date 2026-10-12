@@ -1,0 +1,1 @@
+<a href="{{ route('home') }}" class="brand" aria-label="JVS - Jyoshna’s Versatile Stability, home"><img class="brand-logo" src="{{ asset('images/jvs-logo.png') }}" alt="JVS - Jyoshna’s Versatile Stability" width="105" height="50"></a>
